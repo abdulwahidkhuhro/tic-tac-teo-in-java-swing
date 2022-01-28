@@ -67,10 +67,6 @@ class TicTacTeo implements ActionListener{
 			playerTurn = true;
 		}
 	}
-	
-	private boolean hasWon(){
-		
-	}
 	public static void main(String[] args){
 		new TicTacTeo();
 	}
